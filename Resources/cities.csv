@@ -1,4 +1,4 @@
-,City,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Date
+City_ID,City,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Date
 0,hilo,19.7297,-155.09,73.4,60,20,4.61,US,1614747392
 1,vaini,-21.2,-175.2,78.8,89,75,16.11,TO,1614747165
 2,kapaa,22.0752,-159.319,71.6,73,40,24.16,US,1614747392
