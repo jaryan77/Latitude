@@ -1,4 +1,4 @@
-Landing page can be found on Github pages here: jaryan77.github.io
+(Landing page can be found on Github pages here)[https://jaryan77.github.io/]
 
 
 # Web Design Homework - Web Visualization Dashboard (Latitude)
