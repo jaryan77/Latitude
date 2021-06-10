@@ -1,11 +1,11 @@
-(Landing page can be found on Github pages here)[https://jaryan77.github.io/]
+Landing page can be found on Github pages [here](https://jaryan77.github.io/Latitude/)
 
 
-# Web Design Homework - Web Visualization Dashboard (Latitude)
+# Latitude - Latitude Analysis Dashboard with Attitude
 
 ## Background
 
-Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
+In the project, I created a dashboard using HTML and CSS to visualize my analysis.
 
 ![Images/landingResize.png](Images/landingResize.png)
 
