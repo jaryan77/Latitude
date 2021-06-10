@@ -5,7 +5,7 @@ Landing page can be found on Github pages [here](https://jaryan77.github.io/Lati
 
 ## Background
 
-For this project I will be creating a visualization dashboard website using visualizations I created in a past project, [What's the Weather Like](https://github.com/jaryan77/Whats-the-Weather-Like). Specifically, I will be plotting [this weather data](Resources/cities.csv).
+For this project I created a visualization dashboard website using the visualizations I plotted in my past project, [What's the Weather Like](https://github.com/jaryan77/Whats-the-Weather-Like). Specifically, I will be plotting [this weather data](Resources/cities.csv).
 
 In building this dashboard, I will create individual pages for each plot and a means by which the user can navigate between them. These pages will contain the visualizations and their corresponding explanations. I'll also have a landing page, a page where one can see a comparison of all of the plots, and another page where one can view the data used to build them.
 
@@ -47,7 +47,7 @@ The website also has a navigation menu at the top of each page that:
 
 ### Screenshots
 
-This section contains screenshots of each page that must be built, at varying screen widths. These are a guide; you can meet the requirements without having the pages look exactly like the below images.
+This section contains screenshots of each page that were taken at varying screen widths:
 
 #### <a id="landing-page"></a>Landing page
 
@@ -83,7 +83,7 @@ Small screen:
 
 #### <a id="visualization-pages"></a>Visualization pages
 
-You'll build four of these, one for each visualization. Here's an example of one:
+There are four of these. Here are screenshots of Max Temperature:
 
 Large screen:
 
