@@ -5,11 +5,7 @@ Landing page can be found on Github pages [here](https://jaryan77.github.io/Lati
 
 ## Background
 
-In the project, I created a dashboard using HTML and CSS to visualize weather data used in a past project, [What's the Weather Like](https://github.com/jaryan77/Whats-the-Weather-Like).
-
-## Latitude - Latitude Analysis Dashboard with Attitude
-
-For this project I will be creating a visualization dashboard website using visualizations I created in a past project. Specifically, I will be plotting [this weather data](Resources/cities.csv).
+For this project I will be creating a visualization dashboard website using visualizations I created in a past project, [What's the Weather Like](https://github.com/jaryan77/Whats-the-Weather-Like). Specifically, I will be plotting [this weather data](Resources/cities.csv).
 
 In building this dashboard, I will create individual pages for each plot and a means by which the user can navigate between them. These pages will contain the visualizations and their corresponding explanations. I'll also have a landing page, a page where one can see a comparison of all of the plots, and another page where one can view the data used to build them.
 
