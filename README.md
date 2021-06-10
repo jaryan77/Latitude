@@ -32,7 +32,7 @@ The website consists of 7 pages total, including:
     * The grid must be two visualizations across on screens medium and larger, and 1 across on extra-small and small screens.
 * A ["Data" page](https://jaryan77.github.io/Latitude/data.html) that:
   * Displays a responsive table containing the data used in the visualizations.
-    * The table is a bootstrap table component. [Hint](https://getbootstrap.com/docs/4.3/content/tables/#responsive-tables)
+    * The table is a [bootstrap table component](https://getbootstrap.com/docs/4.3/content/tables/#responsive-tables).
     * The data has come from exporting the `.csv` file as HTML, using pandas. Pandas has a nifty method approprately called `to_html` that allows you to generate a HTML table from a pandas dataframe. See the documentation [here](https://pandas.pydata.org/pandas-docs/version/0.17.0/generated/pandas.DataFrame.to_html.html)
 
     ![csv_to_html](Images/csv_to_html_screenshot.PNG)
@@ -46,8 +46,8 @@ The website also has a navigation menu at the top of each page that:
 
 * Contains a dropdown menu on the right of the navbar named "Plots" that provides a link to each individual visualization page.
 * Provides two more text links on the right: "Comparisons," which links to the comparisons page, and "Data," which links to the data page.
+
     ![navbar_screenshot](Images/navbar_screenshot.PNG)
-* Is responsive (using media queries). The nav must have similar behavior as the screenshots ["Navigation Menu" section](#navigation-menu) (notice the background color change).
 
 ### Screenshots
 
